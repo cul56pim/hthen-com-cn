@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cul56pim.github.io/hthen-com-cn/sitemap.xml
